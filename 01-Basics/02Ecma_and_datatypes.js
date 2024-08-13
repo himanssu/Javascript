@@ -23,6 +23,6 @@ In JavaScript, there are several data types that can be used to store and manipu
 let age= 21
 let name = "John"
 console.log(typeof age)// output:- Number 
-console.log(typeof name)// output:- String
+console.log(typeof (name))// output:- String
 console.log(typeof undefined)// output:- undefined
 console.log(typeof null)// output:- object (its maybe the language error but theres no proper exxplanation according to me)
