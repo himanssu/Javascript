@@ -1,1 +1,1 @@
-Just a repo for practiced js codes
+A Javascript repo of codes along with notes topic vise
